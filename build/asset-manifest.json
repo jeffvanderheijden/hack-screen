@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4ef2645.css",
+    "main.js": "/static/js/main.41b193a2.js",
+    "static/media/hackerPlaceholder.jpeg": "/static/media/hackerPlaceholder.498be055703b05935519.jpeg",
+    "static/media/saskia.jpeg": "/static/media/saskia.6d67ca87e7901c8e2f24.jpeg",
+    "static/media/marien.jpeg": "/static/media/marien.62f65e3998b7e26056b3.jpeg",
+    "static/media/chelsea.jpeg": "/static/media/chelsea.4b08119475270446c49a.jpeg",
+    "static/media/floris.jpeg": "/static/media/floris.970b1b8803ca45085cbc.jpeg",
+    "static/media/meredith.jpeg": "/static/media/meredith.0ef6426a063e34d10171.jpeg",
+    "static/media/soraya.jpeg": "/static/media/soraya.12e12dbece59ea0423f8.jpeg",
+    "static/media/brian.jpeg": "/static/media/brian.ad9962a9736e09200ea9.jpeg",
+    "static/media/jeff.jpeg": "/static/media/jeff.84d7b724226b56f73836.jpeg",
+    "static/media/ron.jpeg": "/static/media/ron.2819fc04fa30e18896b9.jpeg",
+    "static/media/maarten.jpeg": "/static/media/maarten.5871a64301b0632e2e74.jpeg",
+    "static/media/hilda.jpeg": "/static/media/hilda.6166754f47f95df90a90.jpeg",
+    "static/media/yorik.jpeg": "/static/media/yorik.ba94106789615e245bd3.jpeg",
+    "static/media/judith.jpeg": "/static/media/judith.1037ab94c8a81a142dac.jpeg",
+    "static/media/abdeslam.jpeg": "/static/media/abdeslam.348f0723a3d0b0573b35.jpeg",
+    "static/media/henk.jpeg": "/static/media/henk.dc4a929bd131f2362807.jpeg",
+    "static/media/ward.jpeg": "/static/media/ward.7787c9c223ea5d647001.jpeg",
+    "static/media/oskar.jpeg": "/static/media/oskar.809b998e552d59987518.jpeg",
+    "static/media/arthur.jpeg": "/static/media/arthur.4ba536750b6f9142f243.jpeg",
+    "static/media/placeholder.webp": "/static/media/placeholder.83c416167d6dcc4b16ed.webp",
+    "index.html": "/index.html",
+    "main.e4ef2645.css.map": "/static/css/main.e4ef2645.css.map",
+    "main.41b193a2.js.map": "/static/js/main.41b193a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4ef2645.css",
+    "static/js/main.41b193a2.js"
+  ]
+}
